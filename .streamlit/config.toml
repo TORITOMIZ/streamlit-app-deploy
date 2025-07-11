@@ -1,0 +1,8 @@
+[server]
+headless = true
+port = 8501
+enableCORS = false
+
+[runner]
+# 使用するPythonのバージョンを3.11に指定
+python = "3.11"
