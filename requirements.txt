@@ -60,7 +60,6 @@ mypy-extensions==1.0.0
 narwhals==1.46.0
 networkx==3.1
 nodeenv==1.7.0
-numpy==1.24.3
 oauthlib==3.2.2
 openai==0.27.2
 orjson==3.8.11
